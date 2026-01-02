@@ -36,7 +36,7 @@ The analysis answers key business questions such as:
 
 ---
 
-## 🧹 Data Cleaning & Preparation (Python)
+## Data Cleaning & Preparation (Python)
 **Tools:** Python (Pandas, NumPy)
 
 Steps performed:
@@ -54,7 +54,7 @@ The cleaned data was transferred from Python to MySQL and validated to ensure ac
 
 ---
 
-## 🧮 SQL Analysis
+## SQL Analysis
 **Tool:** MySQL
 
 SQL queries were used to analyze:
@@ -69,7 +69,7 @@ SQL queries were used to analyze:
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 **Tool:** Power BI
 
 An interactive dashboard was developed to visualize key insights and trends.
@@ -86,7 +86,7 @@ An interactive dashboard was developed to visualize key insights and trends.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Senior citizens account for the highest number of passenger trips.
 - August is the peak travel month.
 - China has the highest passenger count.
@@ -96,7 +96,7 @@ An interactive dashboard was developed to visualize key insights and trends.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Python** – Data cleaning & transformation  
 - **MySQL** – SQL analysis  
 - **Power BI** – Data visualization
